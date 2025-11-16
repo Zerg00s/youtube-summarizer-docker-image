@@ -16,5 +16,5 @@ docker-compose up -d
 ```
 
 ## Test
-- Navigate tohttp://localhost:3333 in the browser
+- Navigate to http://localhost:3333 in the browser
 
